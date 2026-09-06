@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+datasets/
+.git
+.gitignore
+.gitattributes
+temp_check/
+*.log
+.DS_Store
